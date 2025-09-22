@@ -21,4 +21,4 @@
 - Báo cáo nghiên cứu thị trường và khảo sát khách hàng làm cơ sở cho đề xuất chiến lược.  
 
 ## 👨‍💻 Nhóm thực hiện
-Nhóm 3 – UEH, lớp Quản trị Quan hệ Khách hàng (CRM) – 2025:contentReference[oaicite:5]{index=5}.
+Nhóm 3 – UEH, lớp Quản trị Quan hệ Khách hàng (CRM)
